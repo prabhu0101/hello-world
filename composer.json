@@ -1,7 +1,7 @@
 {
     "name": "prabhumurugan/hello-world",
     "description": "Hello world package",
-    "type": "PHP General",
+    "type": "library",
     "license": "GPL",
     "authors": [
         {
